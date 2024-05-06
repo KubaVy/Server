@@ -7,6 +7,9 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+        <TextBlock HorizontalAlignment="Center" Margin="0,10,0,0" TextWrapping="Wrap" Text="zpravy" VerticalAlignment="Top" Height="290" Width="800"/>
+        <TextBox HorizontalAlignment="Left" Margin="10,355,0,0" TextWrapping="Wrap" Text="chat" VerticalAlignment="Top" Width="698" Height="69"/>
+        <Button Content="Odeslat" HorizontalAlignment="Left" Margin="713,355,0,0" VerticalAlignment="Top" Height="69" Width="84"/>
 
     </Grid>
 </Window>
